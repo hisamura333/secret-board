@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hisamura333/secret-board#readme",
   "dependencies": {
+    "cookies": "^0.5.1",
     "http-auth": "^2.2.8",
     "jade": "^1.11.0",
     "pg": "^6.1.0",
