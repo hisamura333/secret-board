@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hisamura333/secret-board/issues"
   },
-  "homepage": "https://github.com/hisamura333/secret-board#readme"
+  "homepage": "https://github.com/hisamura333/secret-board#readme",
+  "dependencies": {
+    "jade": "^1.11.0"
+  }
 }
